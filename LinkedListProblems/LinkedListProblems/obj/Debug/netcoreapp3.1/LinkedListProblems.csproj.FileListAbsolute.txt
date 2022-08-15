@@ -1,0 +1,14 @@
+C:\Users\Amit Pegu\Desktop\Day14LinkedList\LinkedListProblems\LinkedListProblems\bin\Debug\netcoreapp3.1\LinkedListProblems.exe
+C:\Users\Amit Pegu\Desktop\Day14LinkedList\LinkedListProblems\LinkedListProblems\bin\Debug\netcoreapp3.1\LinkedListProblems.deps.json
+C:\Users\Amit Pegu\Desktop\Day14LinkedList\LinkedListProblems\LinkedListProblems\bin\Debug\netcoreapp3.1\LinkedListProblems.runtimeconfig.json
+C:\Users\Amit Pegu\Desktop\Day14LinkedList\LinkedListProblems\LinkedListProblems\bin\Debug\netcoreapp3.1\LinkedListProblems.runtimeconfig.dev.json
+C:\Users\Amit Pegu\Desktop\Day14LinkedList\LinkedListProblems\LinkedListProblems\bin\Debug\netcoreapp3.1\LinkedListProblems.dll
+C:\Users\Amit Pegu\Desktop\Day14LinkedList\LinkedListProblems\LinkedListProblems\bin\Debug\netcoreapp3.1\LinkedListProblems.pdb
+C:\Users\Amit Pegu\Desktop\Day14LinkedList\LinkedListProblems\LinkedListProblems\obj\Debug\netcoreapp3.1\LinkedListProblems.csproj.AssemblyReference.cache
+C:\Users\Amit Pegu\Desktop\Day14LinkedList\LinkedListProblems\LinkedListProblems\obj\Debug\netcoreapp3.1\LinkedListProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amit Pegu\Desktop\Day14LinkedList\LinkedListProblems\LinkedListProblems\obj\Debug\netcoreapp3.1\LinkedListProblems.AssemblyInfoInputs.cache
+C:\Users\Amit Pegu\Desktop\Day14LinkedList\LinkedListProblems\LinkedListProblems\obj\Debug\netcoreapp3.1\LinkedListProblems.AssemblyInfo.cs
+C:\Users\Amit Pegu\Desktop\Day14LinkedList\LinkedListProblems\LinkedListProblems\obj\Debug\netcoreapp3.1\LinkedListProblems.csproj.CoreCompileInputs.cache
+C:\Users\Amit Pegu\Desktop\Day14LinkedList\LinkedListProblems\LinkedListProblems\obj\Debug\netcoreapp3.1\LinkedListProblems.dll
+C:\Users\Amit Pegu\Desktop\Day14LinkedList\LinkedListProblems\LinkedListProblems\obj\Debug\netcoreapp3.1\LinkedListProblems.pdb
+C:\Users\Amit Pegu\Desktop\Day14LinkedList\LinkedListProblems\LinkedListProblems\obj\Debug\netcoreapp3.1\LinkedListProblems.genruntimeconfig.cache
